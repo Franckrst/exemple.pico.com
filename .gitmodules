@@ -1,0 +1,3 @@
+[submodule "api.pico.com"]
+	path = api.pico.com
+	url = git@github.com:Franckrst/api.pico.com.git
